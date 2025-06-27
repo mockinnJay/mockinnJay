@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @mockinnJay
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Python as a language 
-- 😄 Pronouns: he/him
+
 
 
 <!---
